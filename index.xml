@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/commands-to-know-for-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/commands-to-know-for-blog/</guid>
+      <description>&lt;h3 id=&#34;rsync-obsidians-posts-folder-to-hugos-posts-folder&#34;&gt;rsync obsidian&amp;rsquo;s posts folder to hugo&amp;rsquo;s posts folder&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;rsync -av -delete &amp;quot;/Volumes/data1/JAVI/BLOG/posts/&amp;quot; &amp;quot;/Users/javimacmini/Documents/Blog/javi/content/posts/&amp;quot;&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/hello-world/</guid>
+      <description>&lt;p&gt;Hello I am here&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
