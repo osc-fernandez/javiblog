@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/commands-to-know-for-blog/</link>
+      <link>//localhost:1313/posts/commands-to-know-for-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/commands-to-know-for-blog/</guid>
-      <description>&lt;h3 id=&#34;rsync-obsidians-posts-folder-to-hugos-posts-folder&#34;&gt;rsync obsidian&amp;rsquo;s posts folder to hugo&amp;rsquo;s posts folder&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;rsync -av -delete &amp;quot;/Volumes/data1/JAVI/BLOG/posts/&amp;quot; &amp;quot;/Users/javimacmini/Documents/Blog/javi/content/posts/&amp;quot;&lt;/code&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/commands-to-know-for-blog/</guid>
+      <description>&lt;p&gt;ver### rsync obsidian&amp;rsquo;s posts folder to hugo&amp;rsquo;s posts folder&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;rsync -av -delete &amp;quot;/Volumes/data1/JAVI/BLOG/posts/&amp;quot; &amp;quot;/Users/javimacmini/Documents/Blog/javi/content/posts/&amp;quot;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;commands-to-push-local-repo-to-online-repo&#34;&gt;commands to push local repo to online repo&lt;/h4&gt;&#xA;&lt;p&gt;within hugo folder run the commands below&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;// converts .md files to html files&lt;/code&gt;&#xA;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;// adds all current files to git repo&lt;/code&gt;&#xA;&lt;code&gt;git add .&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;// commit current files (changes) to git repo. m flag is for message or comment of commit&lt;/code&gt;&#xA;&lt;code&gt;git commit -m &amp;quot;hey my first commit&amp;quot;&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/posts/hello-world/</link>
+      <link>//localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/hello-world/</guid>
+      <guid>//localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Hello I am here&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/today-was-a-good-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/today-was-a-good-day/</guid>
+      <description>&lt;p&gt;today i had the best day&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
